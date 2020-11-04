@@ -1,6 +1,6 @@
 # juegotrivial
 
-![imagen](https://images.app.goo.gl/muxJP5CYQCmiBHQa9)
+![imagen](https://images-na.ssl-images-amazon.com/images/I/71ycX%2B8gV7L.png)
 
  # 📚 Instrucciones:
 -El juego consta de 10 preguntas
